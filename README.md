@@ -1,3 +1,13 @@
+##React Code Editor
+
+# Required npm Packages
+
+react
+react-create-app
+react-codemirror2
+react-icons
+(Installation procedure and documentation of each of these packages can be found in their respective npm websites)
+
 # Getting Started with Create React App
 
 A new react app can be created by making use of react-create-app command in the terminal/command prompt.
